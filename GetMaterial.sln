@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMaterial", "IStock\GetMaterial.csproj", "{8D566954-099C-4F38-95B0-9BA3A0DBE591}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "File", "File\File.vdproj", "{BD013980-D97C-4F58-9EB0-782B4FC5EA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D566954-099C-4F38-95B0-9BA3A0DBE591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D566954-099C-4F38-95B0-9BA3A0DBE591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D566954-099C-4F38-95B0-9BA3A0DBE591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D566954-099C-4F38-95B0-9BA3A0DBE591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD013980-D97C-4F58-9EB0-782B4FC5EA1B}.Debug|Any CPU.ActiveCfg = Debug
+		{BD013980-D97C-4F58-9EB0-782B4FC5EA1B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBCCDC36-2407-4763-BB79-D9B2FBDC8418}
+	EndGlobalSection
+EndGlobal
